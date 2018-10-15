@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/10/12,周五 16:52:29。
+     1>项目“F:\code\cPP\VS2013\DDS2PNG\DDS2PNG\DDS2PNG.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\soft\work\vs2013ulti\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt DDS2PNG.cpp stdafx.cpp
+         DDS2PNG.cpp
+         stdafx.cpp
+         正在生成代码...
+       Link:
+         D:\soft\work\vs2013ulti\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\code\cPP\VS2013\DDS2PNG\x64\Debug\DDS2PNG.exe" /NOLOGO osgDBd.lib opengl32.lib osgd.lib osgUtild.lib OpenThreadsd.lib osgTextd.lib opencv_core249d.lib opencv_highgui249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\code\cPP\VS2013\DDS2PNG\x64\Debug\DDS2PNG.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\code\cPP\VS2013\DDS2PNG\x64\Debug\DDS2PNG.lib" /MACHINE:X64 x64\Debug\DDS2PNG.obj
+         x64\Debug\stdafx.obj
+         DDS2PNG.vcxproj -> F:\code\cPP\VS2013\DDS2PNG\x64\Debug\DDS2PNG.exe
+     1>已完成生成项目“F:\code\cPP\VS2013\DDS2PNG\DDS2PNG\DDS2PNG.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.82

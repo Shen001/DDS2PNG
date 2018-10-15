@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/10/12,周五 15:57:56。
+     1>项目“F:\code\cPP\VS2013\DDS2PNG\DDS2PNG\DDS2PNG.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\soft\work\vs2013ulti\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DDS2PNG.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DDS2PNG.cpp
+         DDS2PNG.cpp
+     1>f:\code\cpp\vs2013\dds2png\dds2png\dds2png.cpp(62): warning C4101: “filename”: 未引用的局部变量
+       Link:
+         D:\soft\work\vs2013ulti\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\code\cPP\VS2013\DDS2PNG\Debug\DDS2PNG.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\code\cPP\VS2013\DDS2PNG\Debug\DDS2PNG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\code\cPP\VS2013\DDS2PNG\Debug\DDS2PNG.lib" /MACHINE:X86 Debug\DDS2PNG.obj
+         Debug\stdafx.obj
+         DDS2PNG.vcxproj -> F:\code\cPP\VS2013\DDS2PNG\Debug\DDS2PNG.exe
+     1>已完成生成项目“F:\code\cPP\VS2013\DDS2PNG\DDS2PNG\DDS2PNG.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.46
