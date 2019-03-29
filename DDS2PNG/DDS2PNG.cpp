@@ -162,7 +162,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		BoundingSphere bs = node->getBound();
 		Matrix m;
 		m.makeIdentity();
-		m = Matrix::translate(bs.center());
+		//m = Matrix::translate(bs.center());
 
 		osg::ref_ptr<MatrixTransform> trans = new MatrixTransform;
 		trans->setDataVariance(osg::Object::STATIC);
